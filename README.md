@@ -1,6 +1,6 @@
 # Code Release for “Quantifying Temporal Drift Effects on Uncertainty, Interpretability, and Causal Fidelity” AML Summer Project
 
-This repository contains the code for the AML summer project entitled “Quantifying Temporal Drift Effects on Uncertainty, Interpretability, and Causal Fidelity” at Los Alamos National Laboratory (LANL). The project focuses on benchmarking how changes in data over time affect the reliability of machine-learning models, with attention to uncertainty estimates, model explanations, and causal fidelity.
+This repository contains the code for the AML summer project entitled “Quantifying Temporal Drift Effects on Uncertainty, Interpretability, and Causal Fidelity” at Los Alamos National Laboratory (LANL).  **The code was written by [Hoin Jung](https://hoinjung.github.io/).** The project focuses on benchmarking how changes in data over time affect the reliability of machine-learning models, with attention to uncertainty estimates, model explanations, and causal fidelity.
 
 `CausalDrift` contains the public benchmark code for CausalDrift paper:
 
